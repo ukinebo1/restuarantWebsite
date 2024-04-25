@@ -83,3 +83,12 @@ input::placeholder{
     color: #ffffff;
     
 }
+.menuContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.menuContainer div img{
+    width: 150px;
+    height: auto;
+}
